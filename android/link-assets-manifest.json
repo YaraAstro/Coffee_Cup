@@ -1,0 +1,1169 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/app_image/amazonpay.png",
+      "sha1": "4ec7050dda251f228cb2b9a5220cc986099dd3c7"
+    },
+    {
+      "path": "src/assets/app_image/applepay.png",
+      "sha1": "0b06e72fa97134cda893f1688ab8852fef316f1f"
+    },
+    {
+      "path": "src/assets/app_image/gpay.png",
+      "sha1": "039fbff59306d5e4300ef7614d796844345575af"
+    },
+    {
+      "path": "src/assets/app_image/profile_portrait.png",
+      "sha1": "aa08ec15342f3b88adbc99911a2170d26dc62230"
+    },
+    {
+      "path": "src/assets/app_image/profile_squar.png",
+      "sha1": "9c30ebc9ab47d6d658b6ae6cb6d5f343c8d6d1c8"
+    },
+    {
+      "path": "src/assets/fonts/Aclonica/Aclonica-Regular.ttf",
+      "sha1": "4c9d87374ecbee3c959fc84adb45e4b9eef32d45"
+    },
+    {
+      "path": "src/assets/fonts/Alef/Alef-Bold.ttf",
+      "sha1": "ad234751833d229ada7f69049407ed8f1e1db0cd"
+    },
+    {
+      "path": "src/assets/fonts/Alef/Alef-Regular.ttf",
+      "sha1": "6cebb24b5d0597be61bf396439703b1ecd000411"
+    },
+    {
+      "path": "src/assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "35a7d40b4c93cd65e6324ddb51562c0ea15387c8"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Black.ttf",
+      "sha1": "a001eb827743636e04f8efa7d4aeedf0541c46ac"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-BlackItalic.ttf",
+      "sha1": "b490ec02c69bb74f5b4f487c59e984891c8da71c"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-BoldItalic.ttf",
+      "sha1": "6bf491e78e16d3b9c8a55752e1bd658e15ed7f19"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Italic.ttf",
+      "sha1": "190187b720ec2f2ff2e4281237e301000e09673f"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-LightItalic.ttf",
+      "sha1": "34388d9a3b64380c9f08d424d0adaa88a0d1650a"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-Thin.ttf",
+      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+    },
+    {
+      "path": "src/assets/fonts/Lato/Lato-ThinItalic.ttf",
+      "sha1": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Black.ttf",
+      "sha1": "b5920e7324121e9dc2a4d65cbedac76a07cc0e82"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-BlackItalic.ttf",
+      "sha1": "386c6255a3a76d322f98965eaff7c7ffa6493699"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Bold.ttf",
+      "sha1": "1a43f6ab652eb0c71cd0d748bd8d4bf360903fe1"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-BoldItalic.ttf",
+      "sha1": "10b9a1894ae213dd9bf6a744cf91deb035dfe79b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-ExtraBold.ttf",
+      "sha1": "3571966fb4ccf35b881822e8a0a9fa024c5c6ace"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-ExtraBoldItalic.ttf",
+      "sha1": "c4762fd60b8b08779269b7b7efbf2200ba1b954b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-ExtraLight.ttf",
+      "sha1": "f78df45b995c53a52192cce9e2e920fcfaf8247a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-ExtraLightItalic.ttf",
+      "sha1": "27144eebad7f14d7975bebd1fb0619507a62607b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Italic.ttf",
+      "sha1": "00c1cc40c8dba5d484702ad17f83d525b33955d3"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Light.ttf",
+      "sha1": "32f3cecd9b6c0f67c1a6bec6886e2b8f160617f1"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-LightItalic.ttf",
+      "sha1": "eee5a118a0b65c300be14f18bae8bff89f32679b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Medium.ttf",
+      "sha1": "947e59a8d3586d17a5f8698ae2f371e580411cdb"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-MediumItalic.ttf",
+      "sha1": "afe10ea2839b540ba3b2bf5ae2426f9c5d9978f2"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-Regular.ttf",
+      "sha1": "c4bc36919dfa9ee086b71d7b2796fafc22249b97"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-SemiBold.ttf",
+      "sha1": "0ec94b38226fe45cb85bad4cb5f884512bae6eb7"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt-SemiBoldItalic.ttf",
+      "sha1": "16890643d41d8cb28d9b3df3ae584dacb102e188"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Black.ttf",
+      "sha1": "e8af8776b659eefb5f6af99a1c58ab5653de6a1e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-BlackItalic.ttf",
+      "sha1": "f0740f32c68bc93129da8d910b4e3923ffa02e98"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Bold.ttf",
+      "sha1": "3df97499b1d03c6923e457463dac804c6f44af4f"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-BoldItalic.ttf",
+      "sha1": "46fe7ad13f68b3ee173a536f0e7ea29b4e2749b0"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-ExtraBold.ttf",
+      "sha1": "52e68c0670520d4c18564ed6a769e63baab6b2a8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-ExtraBoldItalic.ttf",
+      "sha1": "c3ba59c5272b4f680418d52a8a2fea538993fd8d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-ExtraLight.ttf",
+      "sha1": "9b84b47763bea95f1e5394fe193cb7d27e8cf947"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-ExtraLightItalic.ttf",
+      "sha1": "b3c63660ce2a0eab457992cd831858547f80c8bd"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Italic.ttf",
+      "sha1": "661c244625dd408868e45733b92c5974269fd490"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Light.ttf",
+      "sha1": "e855e4f19c326f0d08e79b96037a0796934e92ba"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-LightItalic.ttf",
+      "sha1": "215af7741a10c2346f34fde371ed7c35b5124c11"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Medium.ttf",
+      "sha1": "0ac9a3abfd7c83bed591f5237cd56b2241d0b931"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-MediumItalic.ttf",
+      "sha1": "aa14fd053e1f84842e7cbfd92b620614724d5b4b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-Regular.ttf",
+      "sha1": "48cf974a26a90c4f911326db634fe2a59271db33"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-SemiBold.ttf",
+      "sha1": "f5bb2526b0a55f0b66d3be7160fb79b8ea53ea68"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Condensed-SemiBoldItalic.ttf",
+      "sha1": "bbe8be85a6d118cca43452f264c6c13e5c776b92"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Black.ttf",
+      "sha1": "b7b61732b16835960b5a0281669c218a185a7e1d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-BlackItalic.ttf",
+      "sha1": "8f13e2e0e9404b53d9a82957b68bbb9feb597775"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Bold.ttf",
+      "sha1": "e94e34e98baa0aac2ea876dc09075cb726d0063a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-BoldItalic.ttf",
+      "sha1": "b2f62658e9ef86f1fc23dcfb9d493505f2240844"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-ExtraBold.ttf",
+      "sha1": "9c5f5aceed06dddd309a0c58dbcbc3892dd16cae"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-ExtraBoldItalic.ttf",
+      "sha1": "3a09687cd292189e5b4ea0077d51b6a8d569437f"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-ExtraLight.ttf",
+      "sha1": "ab46df0ba7bb159359cc004a3f4fb9b0d85b1809"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-ExtraLightItalic.ttf",
+      "sha1": "15b9626a098e4393934feee4971763c2107de31d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Italic.ttf",
+      "sha1": "18340551e9860320923fd706d1f50228512f9788"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Light.ttf",
+      "sha1": "2858351f77228cbf9664a622fb21e6f72e44d764"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-LightItalic.ttf",
+      "sha1": "87d2cff99f2a310afe7835781c948610bd20399d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Medium.ttf",
+      "sha1": "71ebbc71eb1b8c54602f5e2ca841f1e7f729cd98"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-MediumItalic.ttf",
+      "sha1": "be8d93f26d01a29cbee72c47d707d4604e13b849"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-Regular.ttf",
+      "sha1": "74fdfe1b15962c059360e9b2fa9331cf1f1ea5c8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-SemiBold.ttf",
+      "sha1": "a70e9a5169be6ebb023b15e5760ac40e3cda5097"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_Expanded-SemiBoldItalic.ttf",
+      "sha1": "c0284dbaeecc578a523524b2d40414e2f4511488"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Black.ttf",
+      "sha1": "e4583b393fb81c34f6a79c190ddc28ccd79c3169"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-BlackItalic.ttf",
+      "sha1": "3710d2e613ea1fe9658cafa886d70d46b06090a7"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Bold.ttf",
+      "sha1": "94e4166bafb83d7143af35a1cba92e8e593a765e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-BoldItalic.ttf",
+      "sha1": "35c34f91c93073595a9e56649e9e8b2d09c8bb9b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "7a63c35dbea8dbefed62f69e8fabdff961855358"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-ExtraBoldItalic.ttf",
+      "sha1": "a943798be6e7bac956bd2e8188a6753cb2d3b231"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "3523b6643ee12ac73e1b5cc8c35403e82e271f89"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-ExtraLightItalic.ttf",
+      "sha1": "09ecd3217f82a0c498e00ece9bb8f56ead48f098"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Italic.ttf",
+      "sha1": "1c3b6e6a49c6935d42896a51ca612bb6fc0dcb6d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Light.ttf",
+      "sha1": "de91382ef79e6ec5af688e97094d30fa9364de34"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-LightItalic.ttf",
+      "sha1": "47aa4a087365e7574fc5c67861d399705a9480d7"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Medium.ttf",
+      "sha1": "f84e80b98c256ebfa60ce39b575319f17fe349f0"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-MediumItalic.ttf",
+      "sha1": "77d0801fcb0df62357f44a9c48524534a7c094ab"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-Regular.ttf",
+      "sha1": "890664255af815ec9bbccba3928bbc571828ce22"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "ef9605f889038bb47ad57b0712dc5215d6cc868a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiCondensed-SemiBoldItalic.ttf",
+      "sha1": "6f4d6529ccef439866c306cd780fd1df4850da27"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Black.ttf",
+      "sha1": "73cadca3661f6e45cc8af1b2d116771cdcce7523"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-BlackItalic.ttf",
+      "sha1": "ef1ede68bbc48fed8f26d820670f209ca0c837cb"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Bold.ttf",
+      "sha1": "d2639b1db926cc6599d3698fec6398708cfff4b5"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-BoldItalic.ttf",
+      "sha1": "52d4b4b01c3d238b5753456ae98bdf395a28a262"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-ExtraBold.ttf",
+      "sha1": "4edc6cd8b662972aceeb7e4096be185b9aa62c58"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-ExtraBoldItalic.ttf",
+      "sha1": "aab8d3b65f4ea11618d0205f3380ab8981e53efc"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-ExtraLight.ttf",
+      "sha1": "66fcb091898514eb127094b6faed869648d14af8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-ExtraLightItalic.ttf",
+      "sha1": "94f7e38f541d4602d01a4b09dc9dab35288dc3b1"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Italic.ttf",
+      "sha1": "b9e2ea34c936f3d9c2ffedc52c01beb3d3627c31"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Light.ttf",
+      "sha1": "39a2b5499d339485cd32d5345c961a608f1f2d21"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-LightItalic.ttf",
+      "sha1": "5fe97ea88fada422f1776693dcc73acbddf8b573"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Medium.ttf",
+      "sha1": "d2f107e4da9b402512e709b80e30944b7ea37b9d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-MediumItalic.ttf",
+      "sha1": "20a2865715f701ccf464e626e04ef7023606498d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-Regular.ttf",
+      "sha1": "d54c1d82bf184694f49264acd7790ae21e8a26fb"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-SemiBold.ttf",
+      "sha1": "8c362e4a8e952201a8979a56b349ebc126fde67f"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_10pt_SemiExpanded-SemiBoldItalic.ttf",
+      "sha1": "7f6f6df67e2dc5c0113db2718448be312b55d966"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Black.ttf",
+      "sha1": "d62a0308bdb9c00754cc6b1265b70465c7f05e25"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-BlackItalic.ttf",
+      "sha1": "9190d19cb5d24975ebee8120fad36e83d4aeddd3"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Bold.ttf",
+      "sha1": "9bac6650ac507968089985e02ba424a84b27ab12"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-BoldItalic.ttf",
+      "sha1": "dc3b2321fea566be992a9473879ba55ea13c223d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-ExtraBold.ttf",
+      "sha1": "99a4d6de5d5bf8e15d9ddcf857a2ad3e2dfde436"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-ExtraBoldItalic.ttf",
+      "sha1": "9ca37f036b2240537d36a2ad91cf31b8740b8fd0"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-ExtraLight.ttf",
+      "sha1": "fb6a9c99110dd77d843d96599cf82f33f693afbc"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-ExtraLightItalic.ttf",
+      "sha1": "9053ad3bdf77ce1ea3f043306c02b7d9fbb1e94f"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Italic.ttf",
+      "sha1": "7aa3206c6c381bdb0de21199040c3241b6d6060a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Light.ttf",
+      "sha1": "794c5e24d84a89ac9796eda2a4ba770f865598fc"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-LightItalic.ttf",
+      "sha1": "8f11588d00566fffbf6475a7cb05c99273dbe078"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Medium.ttf",
+      "sha1": "036f3dbc6e6088809d1b2b7bcb0939988ad07bf8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-MediumItalic.ttf",
+      "sha1": "5bfa5f3655e69375791a51c22b916df9a3dc4877"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-Regular.ttf",
+      "sha1": "466635ba024c43f741e320148a159557fd732ec0"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-SemiBold.ttf",
+      "sha1": "b711d63c786e5a61d89f8918ab36925274bd591b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt-SemiBoldItalic.ttf",
+      "sha1": "afe5cddac5786e711d4dacfa6044d8467eb489a6"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Black.ttf",
+      "sha1": "5ed5211d998e684f9f2d8c7870f714406564eefa"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-BlackItalic.ttf",
+      "sha1": "a736dac2df1b95622f7cbdc6dd893d9a4bfcae94"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Bold.ttf",
+      "sha1": "c2f6910875ae1fdcb81eb002228dab92fdfa1a40"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-BoldItalic.ttf",
+      "sha1": "1030eb73001716b1e8f690ddc993876b365f6cac"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-ExtraBold.ttf",
+      "sha1": "c4bc980f2fb81959b471c9733f82a1166917683b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-ExtraBoldItalic.ttf",
+      "sha1": "337eb2397f6af18c06d4c0b09b90f83ac74dcbca"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-ExtraLight.ttf",
+      "sha1": "10dec06c61eef1b8bedd809ddc394a760339a812"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-ExtraLightItalic.ttf",
+      "sha1": "cbfc0820a039f7d94986fc5344e903e8b893b0e7"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Italic.ttf",
+      "sha1": "6ceb10d8616642567981ee6b7bbdb7a36211e16a"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Light.ttf",
+      "sha1": "414864def342adfe16e6127f5bfbabf6405f03e0"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-LightItalic.ttf",
+      "sha1": "0f4c716c6906c1ac53fb106b307b6cb1a8c1cd4e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Medium.ttf",
+      "sha1": "5bb0109f824c8244c18b291cb53b9fd578f8aa2b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-MediumItalic.ttf",
+      "sha1": "86163d26df51d9af27f057453ade28212d4ca6c7"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-Regular.ttf",
+      "sha1": "098d21c9b81962e438cf90d74e510940288c4a5e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-SemiBold.ttf",
+      "sha1": "6d4936386eb587fd99df8fc3eddcd23b3ab15bfe"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Condensed-SemiBoldItalic.ttf",
+      "sha1": "a1630747a2313505beb109fa93c73fcd4fc9a411"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Black.ttf",
+      "sha1": "63e457f5f83d8a5a8106c202af0067dcd82072a9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-BlackItalic.ttf",
+      "sha1": "5df0c50dbaec79fd9f01df97ee494cddda1e10c5"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Bold.ttf",
+      "sha1": "aa6b687a3d1e1de7efa73bda446185b342df091e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-BoldItalic.ttf",
+      "sha1": "be2af18dca025577cb596e63f4edf1b087f011c2"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-ExtraBold.ttf",
+      "sha1": "cdef028ce2cfc3e61316e3dadb7e509021f380c9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-ExtraBoldItalic.ttf",
+      "sha1": "a08b8e9cd87a2614cfa6dbf7c161c5966b092c30"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-ExtraLight.ttf",
+      "sha1": "5b2310aca166007c5ba251d142f1d57a63c65660"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-ExtraLightItalic.ttf",
+      "sha1": "14971d1a5ec17890601bf676623a5e9b441cad27"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Italic.ttf",
+      "sha1": "cd939ded8bbff2576c18f2dbc5c18e5b19226ea9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Light.ttf",
+      "sha1": "9bea11d92edb462c7733e827b3599d28d2ca7706"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-LightItalic.ttf",
+      "sha1": "747a415b8c11d4d27720e6cd0fac39a6713c57a8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Medium.ttf",
+      "sha1": "a358383a21e57112107027c417ca65abd2b2c089"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-MediumItalic.ttf",
+      "sha1": "9c699512d812ef9a969058c9e2edd6f6b515e741"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-Regular.ttf",
+      "sha1": "c7032880ddde6cddbf8fb8fef77a0e483ea72d4e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-SemiBold.ttf",
+      "sha1": "44cd6758f02952bb5133556776420da1e7b96bf9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_Expanded-SemiBoldItalic.ttf",
+      "sha1": "93b5e660da4d4a270d439f0b0629d3f2c295b17f"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Black.ttf",
+      "sha1": "49e0ac00fa6509c06127654e1b56ab9d2d9ddcb6"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-BlackItalic.ttf",
+      "sha1": "1307f95507798db50f0663c636c75509ad146910"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Bold.ttf",
+      "sha1": "acbf0e9afff6cf469be39de52207d418749c30b5"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-BoldItalic.ttf",
+      "sha1": "936522356b2fa82a67fae50218259e4274634068"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-ExtraBold.ttf",
+      "sha1": "1a552a091d34b73d757b43e0066f257f599c04c2"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-ExtraBoldItalic.ttf",
+      "sha1": "814d1e5006a23da7168e83c668303fcecbc5a836"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-ExtraLight.ttf",
+      "sha1": "c8203ef065ced6558c2d661803656dc447362af4"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-ExtraLightItalic.ttf",
+      "sha1": "137e24855d9676d4b10db2293c44329968fc18a3"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Italic.ttf",
+      "sha1": "d71ae1c3c89d09cc8adf828e16588e9ea5bcdf7d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Light.ttf",
+      "sha1": "ae94a5b2828a1ea6695a8690bb7d841c0c77e223"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-LightItalic.ttf",
+      "sha1": "ba614cc8c4a905d78d1cccdcd241ef332ce36e00"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Medium.ttf",
+      "sha1": "44bbb3fb266d7fb1892638748d971a02d81229ef"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-MediumItalic.ttf",
+      "sha1": "970e9202ff57fc5ad9967eb7015158d461503e57"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-Regular.ttf",
+      "sha1": "b590dab5f8f60592b461cb3f8ea32158049e66ba"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-SemiBold.ttf",
+      "sha1": "d5a5603aa40efa4caf9c74d53b19a44bfb0dfc3c"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiCondensed-SemiBoldItalic.ttf",
+      "sha1": "ef1b34f10ed0fccd0b1a6e818f8d518357ab6c43"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Black.ttf",
+      "sha1": "caab22674755457b2249c24871c6ac410285a39b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-BlackItalic.ttf",
+      "sha1": "f9135131d01faa7f257d589523aad3881450ca3c"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Bold.ttf",
+      "sha1": "5372fc1872b40d694fd8a54642c33da69ad55158"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-BoldItalic.ttf",
+      "sha1": "13fdd04a48c6565f3b7d4a84c1813f6302ba1f80"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-ExtraBold.ttf",
+      "sha1": "665a8192ef57388576cd142de143f89df905c3f5"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-ExtraBoldItalic.ttf",
+      "sha1": "f586199c8c63ebd06802f32207f86091a2d2f528"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-ExtraLight.ttf",
+      "sha1": "ba4c860fcc073c16523dcdf595902de00aca18c8"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-ExtraLightItalic.ttf",
+      "sha1": "8df806e9870f580b5899e2bd09a4a6fc9b2eac4e"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Italic.ttf",
+      "sha1": "78263ffd6c5c87e949eb0cf34528d49aa8258ee2"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Light.ttf",
+      "sha1": "b7c857768576540b01e48b1ed3624d26a0d4fa27"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-LightItalic.ttf",
+      "sha1": "e989ed3e2da7dd9c8196e90a3a686c7db00bdd79"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Medium.ttf",
+      "sha1": "76ac65aefd39be0ea0e185fe5ce5e5df5240a93b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-MediumItalic.ttf",
+      "sha1": "4e133d66b8689ab9de4a026aae9a8d6b3db51192"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-Regular.ttf",
+      "sha1": "71f3152ef34cda2154f566c7c1cd34f0982de470"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-SemiBold.ttf",
+      "sha1": "ba942060d2c751be7b970dbb38056373b733e279"
+    },
+    {
+      "path": "src/assets/fonts/Nunito_Sans/NunitoSans_7pt_SemiExpanded-SemiBoldItalic.ttf",
+      "sha1": "afe2c3f297a02842b292716e84ad79736184b0e2"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-Bold.ttf",
+      "sha1": "0ac952b795815a2b49a48856324c854524005687"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-BoldItalic.ttf",
+      "sha1": "96b1ce3d89a36dd06c9e5c5bec2f1d5f23d40de4"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-ExtraBold.ttf",
+      "sha1": "82fcf0091005b291b68d85c3c2da68be9808a5e0"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-ExtraBoldItalic.ttf",
+      "sha1": "b751d36dddafd3a3bf27c1cd83648235ea6d3917"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-ExtraLight.ttf",
+      "sha1": "9882abe877cda416a96932d572c89156da37201a"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-ExtraLightItalic.ttf",
+      "sha1": "fa5d4c3e7c58f6eaa4ba19fbb973a6ad37172890"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-Italic.ttf",
+      "sha1": "b7250a9a177397f373c22c4fc47fb9ed64ca2f7f"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-Light.ttf",
+      "sha1": "44f4f5d1d1fd69761cc2071a09775bc5d4272575"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-LightItalic.ttf",
+      "sha1": "2b905c234b003f8b7a7fe39dccdf334ccc736168"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-Medium.ttf",
+      "sha1": "07dd85ad4b7573745e612b88e058d18fcc865704"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-MediumItalic.ttf",
+      "sha1": "5447ed18508900bc03356062d2df8c1f01502bc7"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-Regular.ttf",
+      "sha1": "ce2c8142153f9c2920b7eaafcf2b463499ef8617"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-SemiBold.ttf",
+      "sha1": "1c85477152eaf11a245989e67bc9a495372af8b7"
+    },
+    {
+      "path": "src/assets/fonts/Spectral/Spectral-SemiBoldItalic.ttf",
+      "sha1": "badb4d0526b2538424ad1bc0a01776ef64d5fc2d"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Arabica/arabica_coffee_beans.png",
+      "sha1": "6a3a502344c1e7723a708dd36ab14977159fe2a5"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Arabica/arabica_coffee_beans_square.png",
+      "sha1": "c9999edc923e32ec7a4fd1735e109b6379e23399"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Excelsa/excelsa_coffee_beans.png",
+      "sha1": "970be745507d810120da13e1b37fda369c1cee73"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Excelsa/excelsa_coffee_beans_square.png",
+      "sha1": "c4dc3a4603ddcf26db6bb22868103158d9c35c9e"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Liberica/liberica_coffee_beans.png",
+      "sha1": "fa0729d9bcdaea20ccdba958883cc4949ea04c38"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Liberica/liberica_coffee_beans_square.png",
+      "sha1": "640b1c269234f850111f0cd104866e0e8c6406e4"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Robusta/robusta_coffee_beans.png",
+      "sha1": "c66c2fa792a6dde341e227f8c05ae12fb54b1fe7"
+    },
+    {
+      "path": "src/assets/productImages/Beans/Robusta/robusta_coffee_beans_square.png",
+      "sha1": "a71f7d90319016c8de5725402c1a196218ca48d3"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_01.png",
+      "sha1": "0a1dc9e2a17ffe2e01ef7091bc55320db44c3c1a"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_02.png",
+      "sha1": "e39dae47be2ab7997d0bcd9814963e1f962b280f"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_03.png",
+      "sha1": "111fbd91cfd5db473a93fd0016090cc0c0878f39"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_square_01.png",
+      "sha1": "e2e0e3e69b164a83b6c8acfd5ec650f3cf8dd90d"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_square_02.png",
+      "sha1": "a4476145274fe268778ce0d9ca83b61a78907a09"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Americano/americano_portrait_square_03.png",
+      "sha1": "eb4b74762f2dc9aedd30a68c8d6250d143ff2c59"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_01.png",
+      "sha1": "a25d6e57212004c915e95dad74b69dcdcaab0627"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_02.png",
+      "sha1": "2227d4727e0d854987e1bfe1fa502adf3b459a1f"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_03.png",
+      "sha1": "290248ec68662a826c62d991464506c4eb838b0b"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_04.png",
+      "sha1": "c0505832badf896ef65a96d4872769c260a56188"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_square_01.png",
+      "sha1": "a8c7915ef82a3c3f7de7a6ca89539db24e9ec762"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_square_02.png",
+      "sha1": "2ad5df7777434623be3b658c3f1c5775289eba78"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_square_03.png",
+      "sha1": "e1a87b86d0e1ed8338ccd5985e19e2619d859e69"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Black_Coffee/black_coffee_portrait_square_04.png",
+      "sha1": "20cc86e282f767b54c222ba2c2bc67f87884389b"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_01.png",
+      "sha1": "0410c6ebdf7c5529cc83871bf611e1bf78b5a8bc"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_02.png",
+      "sha1": "1c431443f68fa720cc37370a17081c5aead64af5"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_03.png",
+      "sha1": "8c956344bb9cd5fbf00b00a4c3d8acef933900fd"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_04.png",
+      "sha1": "b4a1bdc8bf57d9d6d2bd860f039ea77f79389802"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_05.png",
+      "sha1": "e11148b9dc3747b47f0de9ae2af6fed024b7f579"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_square_01.png",
+      "sha1": "142618ff64a2ab8a52746b84cd984f4941bbfbb2"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_square_02.png",
+      "sha1": "8f62932059ff9772a90156dd2a9b0fe901a65cad"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_square_03.png",
+      "sha1": "b801338debd314e57ea3b92374de074352283329"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_square_04.png",
+      "sha1": "71ee6d663434f4e933615e3e50e52f8c7e033e9c"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Cappuccino/cappucino_portrait_square_05.png",
+      "sha1": "ad46be3f26cf84d81cbba7d18eaae9b3b6466b6f"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_01.png",
+      "sha1": "959f00c30fadac0dcc5a512e3144a2ced65243d8"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_02.png",
+      "sha1": "878747b7f872bc5ede399f853ef4b79a6102f097"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_03.png",
+      "sha1": "23cc367975fafa1d57d933497fcf71e57738926f"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_04.png",
+      "sha1": "84740116edc6585166d1ad6dd762da1619a3bead"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_square_01.png",
+      "sha1": "07d3682635d9a485b26971373516488bb8fadfea"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_square_02.png",
+      "sha1": "ecec5e8d1871dae9934e273fbe4193355716964d"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_square_03.png",
+      "sha1": "7005f0ff6ea69b2ac6032bd74bf034ef20fb3cc5"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Espresso/espresso_portrait_square_04.png",
+      "sha1": "5989442648b0249397b502a35df4fd4330a016f8"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_01.png",
+      "sha1": "b21de358a12fbc9822ecee1841da66731bf8df92"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_02.png",
+      "sha1": "a6801a95600a76dcc5ae123cf0a6071f2d54c3a3"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_03.png",
+      "sha1": "61e6f65bb21236086282ee5afdf8afbadfe5e585"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_square_01.png",
+      "sha1": "0d812b8b18e11474bd41e7dc52dc85b961043af8"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_square_02.png",
+      "sha1": "0e17e6870db3554a796abdc148b8b90df89528ce"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Latte/latte_portrait_square_03.png",
+      "sha1": "d6581a545a046c2c0471862f34487535b5e30e15"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_01.png",
+      "sha1": "644bcb6ccab5176c79a40b72cfb5da48ea3e49e0"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_02.png",
+      "sha1": "0b6a8b59184507abee391cf25d25c38e67850fa8"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_03.png",
+      "sha1": "b8098bae506608c8837b092a2205aea0093f0f51"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_square_01.png",
+      "sha1": "fc02fcf73b523bd9a090b217ada9353134f8baf7"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_square_02.png",
+      "sha1": "cf1401983e734e50c9f8c3e1886e4708160f3e83"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Macchiato/macchiato_portrait_square_03.png",
+      "sha1": "0d24b7beee710662bf47b886d19191d40c3acadd"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_01.png",
+      "sha1": "7282b7d8813df28520997881e9268e2ff435ce6b"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_02.png",
+      "sha1": "d07de3fe4279aa717b02744a2204693303c8d644"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_03.png",
+      "sha1": "6eaa98b82faf7a196830ca75a470bba047e3246d"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_square_01.png",
+      "sha1": "d950fe3728c2d0b7bc441f80c6fb420108dc9f44"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_square_02.png",
+      "sha1": "8566f92648ebe6ca76d7e801ce9e1c8ae9d3e647"
+    },
+    {
+      "path": "src/assets/productImages/Coffee/Mocha/mocha_portrait_square_03.png",
+      "sha1": "a30fdafee12da0cec8598d644d20de4503ed3016"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Automatic_Drip_Coffee_Maker/automatic_drip_coffee_maker_01.png",
+      "sha1": "6ac37b2a3fd548732815ee405629f5a5b06836bf"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Automatic_Drip_Coffee_Maker/automatic_drip_coffee_maker_02.png",
+      "sha1": "5ba67f91eebbea7384fb341d98e49ff1e1f19dd8"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Automatic_Drip_Coffee_Maker/automatic_drip_coffee_maker_03.png",
+      "sha1": "0e6bc18150b6f9986bdc4effda4399dac61568cb"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Automatic_Drip_Coffee_Maker/automatic_drip_coffee_maker_04.png",
+      "sha1": "b9a83f267737d2c34d892d0b7fc96f249e7dddc4"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Automatic_Drip_Coffee_Maker/automatic_drip_coffee_maker_square.png",
+      "sha1": "86d1bae1e8d06ffb9d4b763ec41f4e023f1d5187"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Bean-to-Cup_Coffee_Maker/bean_to_cup_coffee_maker_01.png",
+      "sha1": "512199189f5604ecee4dd579c14b157d6c6ec0cb"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Bean-to-Cup_Coffee_Maker/bean_to_cup_coffee_maker_02.png",
+      "sha1": "85dca26f08232aca7904f48aacd3373c35b66b44"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Bean-to-Cup_Coffee_Maker/bean_to_cup_coffee_maker_03.png",
+      "sha1": "7a26541358b3eeb428727a57c64c5fbb2315e1c8"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Bean-to-Cup_Coffee_Maker/bean_to_cup_coffee_maker_04.png",
+      "sha1": "10b74e014e8942c9e6388c4fa5fd0efe6093fceb"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Bean-to-Cup_Coffee_Maker/bean_to_cup_coffee_maker_square.png",
+      "sha1": "e4836b6bff00af024d9c79a6db06738fc47fdf4f"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Cold_Brew_Coffee_Maker/cold_brew_coffee_maker_01.png",
+      "sha1": "5a28067f31a3f5bc93b715bbec577a0b6a1e4eb9"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Cold_Brew_Coffee_Maker/cold_brew_coffee_maker_02.png",
+      "sha1": "f78d4a3b5b855e9331536a1ae3816cf8c83b9d8d"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Cold_Brew_Coffee_Maker/cold_brew_coffee_maker_03.png",
+      "sha1": "ce79ae63759f7fcdc83159976111364d88da4452"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Cold_Brew_Coffee_Maker/cold_brew_coffee_maker_04.png",
+      "sha1": "ceccd63603d4fcb7cda93cc368a4b26aca319a05"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Cold_Brew_Coffee_Maker/cold_brew_coffee_maker_square.png",
+      "sha1": "200cb433b352505ea8fc707419d4abfa77594606"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Espresso_Machine/espresso_machine_01.png",
+      "sha1": "3b92f4fbcb0b8f6fb84cf7eb83e3ecaa1f1262cd"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Espresso_Machine/espresso_machine_02.png",
+      "sha1": "c170e36d78dc9a06082a611767351d53713f0148"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Espresso_Machine/espresso_machine_03.png",
+      "sha1": "384ad006fce28039758608cb2a746c9c9c99116f"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Espresso_Machine/espresso_machine_04.png",
+      "sha1": "89fa239bd69718efcbc624d646ac2665b69ad8cf"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Espresso_Machine/espresso_machine_square.png",
+      "sha1": "cf1a2da30abe3d17e921d9f59e68b57506a2ea9f"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_01.png",
+      "sha1": "1fe7dd9d48f6ef677c0a57d7015ebc3cd147e861"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_02.png",
+      "sha1": "b339441ae5a1a9c3591bd768810791aa108121f1"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_03.png",
+      "sha1": "95ea4cef49e32fd08424daacb8c01c23a944299e"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_04.png",
+      "sha1": "c04254f85abbda392d5f9836087e08d69e12d5e9"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_05.png",
+      "sha1": "0d6660afbe5c2d64bde8e89de4bfbb6a746cd854"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/French_Press/french_press_square.png",
+      "sha1": "886a04626f4ad930974ffd95b8ad9e996bd4cd6a"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Moka_Pot/moka_pot_01.png",
+      "sha1": "9f4f1d100c1973be50b365af55ed266187641a29"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Moka_Pot/moka_pot_02.png",
+      "sha1": "3acfeea5d7042e45639e39b56c64d7bf8d7353ec"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Moka_Pot/moka_pot_03.png",
+      "sha1": "b6bae428309631697eab81ce9e0e1961d4e2f5bc"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Moka_Pot/moka_pot_square.png",
+      "sha1": "d3cec450685d3be10192daff8f59453f1d5808d5"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Pour-Over_Coffee_Maker/pour_over_coffee_maker_01.png",
+      "sha1": "7e637e8bb68eba0a245afc33ebb755af9c3b915e"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Pour-Over_Coffee_Maker/pour_over_coffee_maker_02.png",
+      "sha1": "8b38aec353a7b75c0266ef4a5263ebee99672ba9"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Pour-Over_Coffee_Maker/pour_over_coffee_maker_03.png",
+      "sha1": "5c2add7ed8674a4d3f01e12b293b281923c1b4e3"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Pour-Over_Coffee_Maker/pour_over_coffee_maker_square.png",
+      "sha1": "f859df78cc6980d2289385fcbf5def96b8338000"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Single-Serve_Coffee_Maker/single_serve_coffee_maker_01.png",
+      "sha1": "6c8aed4aabd44573ae5fa8bebe59954c2c8f9f02"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Single-Serve_Coffee_Maker/single_serve_coffee_maker_02.png",
+      "sha1": "8c623418a30ece22c2cd032e7a22fcc212860f36"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Single-Serve_Coffee_Maker/single_serve_coffee_maker_03.png",
+      "sha1": "bb2c720aa3dedb6556e7e6cdcff685176c9c515d"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Single-Serve_Coffee_Maker/single_serve_coffee_maker_04.png",
+      "sha1": "7ee80bc627e49342bd5d39c2bae851d09750b877"
+    },
+    {
+      "path": "src/assets/productImages/CoffeeMakers/Single-Serve_Coffee_Maker/single_serve_coffee_maker_square.png",
+      "sha1": "6082d3c410fd6370b559487b61b160c80338aef7"
+    }
+  ]
+}

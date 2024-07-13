@@ -1,79 +1,103 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Coffee Café Managment App UI ( React Native )
 
-# Getting Started
+## Inspired By : 
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+##### Coffee Shop Mobile Apps - Dark Mode *by* **Adhiari Subekti for One Week Wonders**
+   <a href="https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode">
+      <img src="https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/d6e4bcb5632b9e5842f9e89f79e0c0da.png" alt="Coffee Shop Mobile Apps - Dark Mode" width="720">
+   </a>
 
-## Step 1: Start the Metro Server
+##### 📱 Build a Coffee Shop App using React Native ☕| Beginner | 2023 *by* **CODEX** 
+   <a href="https://youtu.be/W1Co2M-gsQE" target="_blank">
+      <img src="https://i.ytimg.com/vi/W1Co2M-gsQE/hq720.jpg" alt="Build a Coffee Shop App using React Native|Beginner|2023" width="400" />
+   </a>
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+##### 🔴 Coffee App UI - React Native - Speed Code *by* **Tugane Amiel**
+   <a href="https://youtu.be/EdWlVylbz3o">
+      <img src="https://i.ytimg.com/vi/EdWlVylbz3o/hq720.jpg" alt="Coffee App UI - React Native - Speed Code" width="400">
+   </a>
 
-To start Metro, run the following command from the _root_ of your React Native project:
+---
 
-```bash
-# using npm
-npm start
+## About
 
-# OR using Yarn
-yarn start
-```
+## Screenshots
 
-## Step 2: Start your Application
+### Project Information
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+<details>
+<summary>Dependencies</summary>
 
-### For Android
+* Zustand 
+   ```bash
+      npm install zustand 
+   ```
+* Async-Storage
+   ```bash
+      npm install @react-native-async-storage/async-storage 
+   ```
+* Immer
+   ```bash
+      npm install immer 
+   ```
+* React Native Vector Icons
+   ```bash
+      npm i react-native-vector-icons 
 
-```bash
-# using npm
-npm run android
+      #installs TypeScript type definitions for the react-native-vector-icons library.
+      npm i --save-dev @types/react-native-vector-icons
+   ```
+* React Native Linear Gradient
+   ```bash
+      npm i react-native-linear-gradient 
+   ```
+* React Native Community Blur
+   ```bash
+      npm i @react-native-community/blur 
+   ```
+* Lottie React Native
+   ```bash
+      npm i lottie-react-native 
+   ``` 
+* React Navigation
+   ```bash
+      # basic installation
+      npm install @react-navigation/native
+      npm install react-native-screens react-native-safe-area-context
 
-# OR using Yarn
-yarn android
-```
+      # install native stack
+      npm install @react-navigation/native-stack
 
-### For iOS
+      # install bottom tabs
+      npm install @react-navigation/bottom-tabs
 
-```bash
-# using npm
-npm run ios
+   ```
 
-# OR using Yarn
-yarn ios
-```
+</details>
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+<details>
+<summary>Colour Pallete</summary>
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+| Color Name | HEX Code | Sample |
+| --- | --- | --- |
+|  | `#171413` | ![#171413](https://via.placeholder.com/50x25/171413/000000?text=+) |
+|  | `#605a57` | ![#605a57](https://via.placeholder.com/50x25/605a57/000000?text=+) |
+|  | `#5b1f0c` | ![#5b1f0c](https://via.placeholder.com/50x25/5b1f0c/000000?text=+) |
+|  | `#b8c6cd` | ![#b8c6cd](https://via.placeholder.com/50x25/b8c6cd/000000?text=+) |
+|  | `#9c310f` | ![#9c310f](https://via.placeholder.com/50x25/9c310f/000000?text=+) |
+|  | `#ae8b72` | ![#ae8b72](https://via.placeholder.com/50x25/ae8b72/000000?text=+) |
+|  | `#9e5e3b` | ![#9e5e3b](https://via.placeholder.com/50x25/9e5e3b/000000?text=+) |
 
-## Step 3: Modifying your App
+<br><br><br>
 
-Now that you have successfully run the app, let's modify it.
+| Color Name | HEX Code | Sample |
+| --- | --- | --- |
+|  | `#D2793F` | ![#D2793F](https://via.placeholder.com/50x25/171413/000000?text=+) |
+|  | `#0B121C` | ![#0B121C](https://via.placeholder.com/50x25/605a57/000000?text=+) |
+|  | `#FE3A3B` | ![#FE3A3B](https://via.placeholder.com/50x25/5b1f0c/000000?text=+) |
+|  | `#202731` | ![#202731](https://via.placeholder.com/50x25/b8c6cd/000000?text=+) |
+|  | `#05060B` | ![#05060B](https://via.placeholder.com/50x25/9c310f/000000?text=+) |
+|  | `#D1D9DC` | ![#D1D9DC](https://via.placeholder.com/50x25/ae8b72/000000?text=+) |
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+  
+</details>
